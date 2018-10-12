@@ -1,0 +1,1 @@
+Changing something inside `MyApp` makes the subsequent hot reload recreate the window, resetting it's position on macOS and duplicating it on Windows.
